@@ -12,11 +12,17 @@ Repository Structure
 
 AI-Lab-Tasks/
 │
+
 ├── Task-01/
+
 ├── Task-02/
+
 ├── Task-03/
+
 │   ...
+
 ├── Task-14/
+
 └── README.md
 
 
