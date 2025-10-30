@@ -25,4 +25,4 @@ DFS is a graph traversal algorithm that explores as far as possible along each b
 
 ## Requirements
 
-Python 3.x
+- Python 3.x
