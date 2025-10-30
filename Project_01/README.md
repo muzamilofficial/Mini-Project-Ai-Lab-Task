@@ -1,12 +1,5 @@
 # Hangman Game
 
-## Author
-**Name:** Muzamil Shabeer  
-**Section:** BS-AI-3C  
-**Project:** Mini Project – AI Lab Task (Project 01)
-
----
-
 ## Overview
 This is a simple **Hangman Game** written in **Python**.  
 It randomly selects a word from a text file (`words.txt`) and allows the user to guess letters one by one.  
@@ -34,4 +27,8 @@ The player has **7 chances** to guess the correct word before the game ends.
    - The word is guessed → “Congrats! You win.”
    - Chances reach zero → “You lose. Try again.”
 
+---
 
+## Requirements
+- Python 3.x  
+- `words.txt` file in the same directory
