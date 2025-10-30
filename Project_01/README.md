@@ -34,7 +34,4 @@ The player has **7 chances** to guess the correct word before the game ends.
    - The word is guessed → “Congrats! You win.”
    - Chances reach zero → “You lose. Try again.”
 
----
-
-## Example Output
 
