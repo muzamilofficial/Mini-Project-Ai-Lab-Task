@@ -39,5 +39,8 @@ This program stores a list of movies and their budgets, allows the user to add n
 - Loops and user input  
 - Sum, average, and conditional comparisons  
 
+---
 
+## Requirements
+- Python 3.x
 
