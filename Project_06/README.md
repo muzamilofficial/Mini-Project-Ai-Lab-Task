@@ -1,4 +1,6 @@
-# Project 06 – Breadth First Search (BFS) Traversal
+Breadth First Search (BFS) Traversal
+
+---
 
 ## Overview
 This project demonstrates the **Breadth-First Search (BFS)** algorithm using two different implementations:
