@@ -54,6 +54,7 @@ This program takes a sentence and sorts all words in **alphabetical order** usin
 
 ## Structure
 │
+
 ├── part1_card_validation.py
 
 ├── part2_remove_special.py
