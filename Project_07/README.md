@@ -1,12 +1,3 @@
-# Project 08 – A* (A-Star) Search Algorithm
-
-## Author
-**Name:** Muzamil Shabeer  
-**Section:** BS-AI-3C  
-**Project:** Mini Project – AI Lab Task (Project 08)
-
----
-
 ## 🧠 Overview
 This project implements the **A\* (A-Star) Search Algorithm**, an advanced pathfinding and graph traversal technique widely used in **Artificial Intelligence**, **Robotics**, and **Game Development**.  
 It finds the **shortest path** between a start node and a goal node using both **actual cost** (g) and **heuristic cost** (h).
